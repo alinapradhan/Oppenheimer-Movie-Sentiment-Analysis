@@ -1,7 +1,4 @@
 # Oppenheimer-Movie-Sentiment-Analysis
-A sentiment analysis project using tweets related to the movie Oppenheimer. It leverages NLP techniques and visualizations to explore public opinion.
-# Oppenheimer Movie Sentiment Analysis
-
 This notebook performs sentiment analysis on tweets about the movie *Oppenheimer* using Python, NLP (TextBlob), and data visualization tools to evaluate audience sentiment distribution.
 
 ## Features
