@@ -1,7 +1,7 @@
 # Oppenheimer-Movie-Sentiment-Analysis
 This notebook performs sentiment analysis on tweets about the movie *Oppenheimer* using Python, NLP (TextBlob), and data visualization tools to evaluate audience sentiment distribution.
 
-## Features
+# Features
 - Data cleaning and preprocessing of tweet data
 - Sentiment classification (positive, negative, neutral)
 - Word clouds and pie charts for visual insights
